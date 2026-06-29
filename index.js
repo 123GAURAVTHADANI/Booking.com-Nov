@@ -329,3 +329,51 @@
 
 // 20 mins - DOM Manipulation
 // SQL - 2.5 days (DBMS)
+
+// let obj = {
+//   firstName: "PW",
+//   lastName: "Skills",
+//   age: 29,
+//   getName: function () {
+//     return this.firstName + " " + this.lastName;
+//   },
+// };
+
+// map method ?? (iterate and returns an array)
+// myMap ???
+
+// polyphils !!!
+
+// Amazon, Nvidia etc.
+
+// let array = [10, 4, 3];
+
+// Array.prototype.myFilter = function (callback) {
+//   let temp = [];
+//   for (let i = 0; i < this.length; i++) {
+//     if (callback(this[i])) {
+//       temp.push(this[i]);
+//     }
+//   }
+//   return temp;
+// };
+
+// let result = array.myFilter((item) => item > 5);
+// console.log(result);
+
+// array.myFilter((item) => item > 10);
+
+// Array.prototype.myMap = function (callback) {
+//   //   console.log(this.length);
+//   let temp = [];
+//   for (let i = 0; i < this.length; i++) {
+//     temp.push(callback(this[i]));
+//   }
+//   return temp;
+// };
+
+// let result = array.myMap((item) => item * 2);
+// console.log(result);
+
+// reduce method polyphil !! 
+
